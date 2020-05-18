@@ -1,6 +1,6 @@
 # JokeTeller
 
-Simple Commandline app that tells you a joke.
+Simple Commandline app that tells you a programming related joke.
 
 ## Installation
 ¯\\_(ツ)_/¯
